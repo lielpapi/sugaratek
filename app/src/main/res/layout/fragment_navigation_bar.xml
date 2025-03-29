@@ -7,7 +7,7 @@
     android:background="@android:color/white"
     android:visibility="visible"
     app:elevation="16dp"
-    app:itemIconTint="@color/dark_green"
+    app:itemIconTint="@color/colorPrimary"
     app:itemTextColor="@color/light_blue"
     app:labelVisibilityMode="labeled"
     app:menu="@menu/bottom_navigation_menu"
@@ -15,3 +15,4 @@
 
 
 
+s
