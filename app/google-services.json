@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "599223949565",
+    "project_id": "sugarate-ec9cc",
+    "storage_bucket": "sugarate-ec9cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599223949565:android:880113174a189363f04694",
+        "android_client_info": {
+          "package_name": "com.example.sugarate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABZxYUXYc8VAl78MmF3qPwq9fyoU5BlWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
