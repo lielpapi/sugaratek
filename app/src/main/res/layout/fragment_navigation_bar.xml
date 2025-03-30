@@ -7,12 +7,11 @@
     android:background="@android:color/white"
     android:visibility="visible"
     app:elevation="16dp"
-    app:itemIconTint="@color/colorPrimary"
-    app:itemTextColor="@color/light_blue"
+    app:itemIconTint="@color/selector_bottom_nav_item"
+    app:itemTextColor="@color/selector_bottom_nav_item"
     app:labelVisibilityMode="labeled"
     app:menu="@menu/bottom_navigation_menu"
     app:itemIconSize="45dp"/>
 
 
 
-s

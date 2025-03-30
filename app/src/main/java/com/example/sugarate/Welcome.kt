@@ -25,7 +25,7 @@ class Welcome : AppCompatActivity() {
             return // Finish the Welcome activity to prevent it from being shown
         }
 
-        // initialize the database with a new Recipe
+        // initialize the database with a new Recipe ff
 
         Log.d("RECIPE", "Before initializing database with recipe")
 
